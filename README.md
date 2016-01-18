@@ -42,7 +42,7 @@ The process for deploying to Github is dead simple all you have to do is just pu
 $ git subtree push --prefix build origin gh-pages
 ```
 
-But unfortunately that requires you to keep your main branch polluted with the build which isn't ideal. The best solution is to use a script like [git-directory-deploy](https://github.com/lukekarrys/git-directory-deploy), which as luck would have it is already installed and setup. To use it just run:
+But unfortunately that requires you to keep your main branch polluted with the build which isn't ideal. The best solution is to use a script like [git-directory-deploy](https://github.com/lukekarrys/git-directory-deploy) or [gh-pages](https://github.com/tschaub/gh-pages), gh-pages is already installed and setup. To use it just run:
 
 ```sh
 $ npm run deploy
