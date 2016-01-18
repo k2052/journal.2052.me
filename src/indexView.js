@@ -9,12 +9,6 @@ function indexView(locals) {
       window.__DATA__ = ${JSON.stringify(locals.data)};
     </script>
     <link rel="stylesheet" href="assets/app.css" media="screen" title="no title" charset="utf-8">
-  </head>
-  <body>
-    <div id='app'>
-      ${locals.reactApp}
-    </div>
-    <script type="text/javascript" src="assets/app.js"></script>
     <script>
       (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
       (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -25,6 +19,12 @@ function indexView(locals) {
       ga('send', 'pageview');
 
     </script>
+  </head>
+  <body>
+    <div id='app'>
+      ${locals.reactApp}
+    </div>
+    <script type="text/javascript" src="assets/app.js"></script>
   </body>
 </html>
   `;
