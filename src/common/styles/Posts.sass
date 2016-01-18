@@ -1,0 +1,47 @@
+.Posts, .Posts li
+  list-style-type: none
+  margin: 0
+  padding: 0
+
+.Posts
+  padding-top: 3.4rem
+
+.Posts li+li
+  border-top: 1px solid #eee
+
+.Posts__Post__Date
+  text-align: right
+  font-size: 0.8rem
+  margin-top: -1rem
+  float: right
+  font-weight: 700
+
+.Posts__Post__Title__Span
+
+.Post__Date
+  text-align: center
+  font-weight: 300
+  color: $heather
+  margin: -0.8rem 0 2rem 0
+
+code.hljs
+  font-family: 'Fira Mono'
+  font-size: 0.8rem
+  line-height: 1.5
+  padding: 1rem
+  margin-bottom: 0.8rem
+
+.Post__Title
+  @extend .H1
+
+.videoWrapper
+	position: relative
+  padding: 1.4rem
+	height: 400px
+
+.videoWrapper iframe
+	position: absolute
+	top: 0
+	left: 0
+	width: 100%
+	height: 100%

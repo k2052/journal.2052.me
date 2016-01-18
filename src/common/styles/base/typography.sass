@@ -1,0 +1,61 @@
+.Heading
+  font-family: 'Open Sans Condensed', sans-serif
+  font-weight: 300
+  line-height: 1
+
+.H1
+  font-weight: 700
+  text-align: center
+  font-size: 4.5rem
+  margin: 2.8rem 0 0 0
+  padding: 0
+  line-height: 1.8
+
+h1
+  @extend .H1
+
+h1, h2, h3, h4, h5
+  @extend .Heading
+  color: $heading-color
+
+h2
+  font-size: 2.4rem
+
+h3
+  font-size: 1.8rem
+
+hr
+  margin: 0
+
+p
+  margin: 1.4rem 0 1.4rem 0
+
+pre
+  margin-bottom: 0
+
+em, b, strong
+  color: $black
+  font-weight: 400
+
+em
+  font-weight: 400
+
+a
+  color: $un-blue
+  text-decoration: none
+  transition: all 0.2s
+
+a:hover
+  text-decoration: underline
+
+hr
+  border-top: 1px solid #eee
+
+blockquote
+  padding: 0.01rem 0 0.01rem 0.8rem
+  margin: 0 0 0 0.2rem
+  border-left: 2px solid #eee
+
+  p:first-child
+    padding: 0
+    margin: 0
