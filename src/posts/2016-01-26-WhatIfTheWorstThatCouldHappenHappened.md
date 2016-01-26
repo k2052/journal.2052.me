@@ -31,7 +31,7 @@ Fired over Slack. Then your house burns down. Then during a google hangout with 
 
 This is silly. This would never happen but this is how my brain works. This is what I worry about, so I do what is easiest, I avoid things.
 
-The summer I was six some kids convinced me the pipe that ran on the lakebed could suck you in. "If you aren't careful it can pull you in", they said. For weeks every time we went to the lake I was convinced I could be sucked in at any moment. I carefully avoided the pipe and always swam swiftly over top of it's location. When I'd forget and end up above it, it would send me into a panic and I would swim away as fast I could.
+The summer I was six some kids convinced me the pipe that ran on the lakebed could suck you in. "If you aren't careful it can pull you in", they said. For weeks every time we went to the lake I was convinced I could be sucked in at any moment. I carefully avoided the pipe and always swam swiftly over top of its location. When I'd forget and end up above it, it would send me into a panic and I would swim away as fast I could.
 
 I tried convincing myself that everything was fine and that it was silly to think I could be sucked into a pipe but to a six year old a dangerously placed pipe at the bottom of a swimming area seemed reasonable. Incompetent adults surely cared so little for the safety of children that they would do such a thing without a second thought. It seemed plausible enough to me.
 
