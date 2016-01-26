@@ -61,6 +61,6 @@ Humans are wired for a time when the worst happening meant death or starvation. 
 
 Do you know who disproportionately are the biggest entreprenuers? The wealthy. They don't fear less, they have to less fear. They aren't risk seekers, they have less risk. The worst that could happen isn't so bad for them. Want to be like them? Accept your worst case scenario just as they accepted theirs. Their worst case might be a studio apartment but yours might be homelessness. You can survive homelessness. You can go for it!
 
-When you realize that you can survive the worst that could happen you become free. You suddenly have permission to just be. You can send the email. You can apply for the dream job. You can quit the job and pursue the dream. You can take risks in the chess game. You can tell the girl you like them, You can tell the boy you like them. You can travel to far away lands.
+When you realize that you can survive the worst that could happen you become free. You suddenly have permission to just be. You can send the email. You can apply for the dream job. You can quit the job and pursue the dream. You can take risks in the chess game. You can tell the girl you like them, You can tell the boy you like them. You can travel to far away lands. You can swim across the monster at the bottom of the lake.
 
 You can do this not because you are fearless but because fear has lost its meaning. What if the worst that could happen happened? Everything would be fine. It wouldn't stop you.
