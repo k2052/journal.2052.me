@@ -16,7 +16,7 @@ let metal = metalsmith(__dirname)
   .metadata({
     site: {
       title: "K-2052's Journal",
-      url: 'http://journal.k2052.me',
+      url: 'http://journal.2052.me',
       author: 'K-2052'
     }
   })

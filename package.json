@@ -1,5 +1,5 @@
 {
-  "name": "journal.k2052.me",
+  "name": "journal.2052.me",
   "version": "0.0.1",
   "description": "K-2052's Journal",
   "main": "server.js",
@@ -67,7 +67,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/k2052/journal.k2052.me.git"
+    "url": "git+https://github.com/k2052/journal.2052.me.git"
   },
   "keywords": [
     "react",
@@ -78,7 +78,7 @@
   "author": "K-2052",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/k2052/journal.k2052.me/issues"
+    "url": "https://github.com/k2052/journal.2052.me/issues"
   },
-  "homepage": "https://github.com/k2052/journal.k2052.me#readme"
+  "homepage": "https://github.com/k2052/journal.2052.me#readme"
 }

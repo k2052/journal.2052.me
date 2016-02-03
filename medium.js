@@ -30,14 +30,14 @@ try {
 
 const matter = frontMatter(src)
 const { title, tags } = matter.attributes
-const canonicalUrl = `http://journal.k2052.me/${slug}.html`
+const canonicalUrl = `http://journal.2052.me/${slug}.html`
 
 const content = `
 # ${title}
 
 ${matter.body}
 
-*Cross-posted from [journal.k2052.me/](${canonicalUrl})*
+*Cross-posted from [journal.2052.me/](${canonicalUrl})*
 `
 
 client.getUser((err, user) => {
