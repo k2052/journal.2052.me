@@ -113,7 +113,7 @@ Look through numbers `a` until every number up to and including 5 `x` has appear
 This is a very simple example. The more complex the case the more important this manual step will be. This step does two things;
 
 1. It makes sure your math is right. In this case it is just a simple equal sign but it can be a lot more complicated.
-2. It helps reveal the data structures you will need. In our case we don't generate any new state
+2. It helps reveal the data structures you will need. In this example most of the data is decided for us, we only generate one new thing, an int. 
 
 ## 3. Solve... Kidding Don't Solve it yet either. Figure out the data structures
 
