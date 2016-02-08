@@ -33,7 +33,7 @@ The problem with word problems is they are full of data you don't need. Unintent
 
 Interview puzzles are like word problems. Once you understand them they tend to be rather straightforward. The only reason they are hard is because the skills needed to pick apart an interview challenge are not the same ones you use to pick apart and breakdown a real world problem.
 
-Let's take typical challenge from Codility and see how it looks:
+Let's take typical challenge from Codility [Frog river one](https://codility.com/programmers/task/frog_river_one) and see how it looks:
 
 <blockquote>
 
@@ -108,8 +108,7 @@ x = 5
 a = [1, 3, 1, 4, 2, 3, 5, 4]
 ```
 
-Look through numbers `a` until every number up to and including 5 `x` has appeared.
-when this happens record where the number was and use that position to cross the river.
+Look through numbers `a` until every number up to and including 5 `x` has appeared; when this happens, record where the number was and use that to cross the river.
 
 This is a very simple example. The more complex the case the more important this manual step will be. This step does two things;
 
