@@ -101,7 +101,7 @@ When described this way the solution should come to you instantly. But don't sol
 
 ## 2. Don't Solve It. Do it manually
 
-Now that you have described the problem, you can write out a manual solution. Often but not always, this manual solution is already available to you in the problems description, you just need to rip it out. For example, our Frog Jump River problem is simply:
+Now that you have described the problem, you can write out a manual solution. Often but not always, this manual solution is already available to you in the problem's description, you just need to rip it out. For example, our Frog Jump River problem is simply:
 
 ```ruby
 x = 5
@@ -113,7 +113,7 @@ Look through numbers `a` until every number up to and including 5 `x` has appear
 This is a very simple example. The more complex the case the more important this manual step will be. This step does two things;
 
 1. It makes sure your math is right. In this case it is just a simple equal sign but it can be a lot more complicated.
-2. It helps reveal the data structures you will need. In this example most of the data is decided for us, we only generate one new thing, an int. 
+2. It helps reveal the data structures you will need. In this example most of the data is decided for us, we only generate one new thing, an int.
 
 ## 3. Solve... Kidding Don't Solve it yet either. Figure out the data structures
 
