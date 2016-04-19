@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "medium": "babel-node medium",
+    "medium": "node medium.babel.js",
     "webpack:static": "NODE_ENV=production webpack --config webpack.static.config.js",
     "webpack:client": "webpack --config webpack.client.config.js ",
     "webpack": "npm run webpack:static && npm run webpack:client",
@@ -15,12 +15,15 @@
     "build": "npm run build:blog && npm run webpack:dist",
     "deploy": "npm run build && gh-pages -d build"
   },
-  "dependencies": {},
+  "dependencies": {
+    "dotenv": "^2.0.0"
+  },
   "peerDependcies": {
     "highlight.js": "^8.4"
   },
   "devDependencies": {
     "babel": "^6.1.18",
+    "babel-cli": "^6.7.5",
     "babel-core": "^6.2.1",
     "babel-loader": "^6.2.0",
     "babel-plugin-react-transform": "^2.0.0-beta1",

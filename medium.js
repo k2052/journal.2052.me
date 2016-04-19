@@ -1,10 +1,11 @@
+require('dotenv').config();
 import fs from 'fs'
 import medium from 'medium-sdk'
 import frontMatter from 'front-matter'
 import colors from 'colors'
 import open from 'open'
 
-const TOKEN = ENV['MEDIUM_TOKEN']
+const TOKEN = process.env['MEDIUM_TOKEN']
 const args = process.argv.slice(2)
 const filename = args[0]
 const slug = filename.replace(/^src\/posts\/|\.md$/g, '')
