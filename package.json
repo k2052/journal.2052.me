@@ -16,7 +16,10 @@
     "deploy": "npm run build && gh-pages -d build"
   },
   "dependencies": {
-    "dotenv": "^2.0.0"
+    "dotenv": "^2.0.0",
+    "highlight.js": "^8.9.1",
+    "history": "^1.17.0",
+    "remarkable": "^1.6.2"
   },
   "peerDependcies": {
     "highlight.js": "^8.4"
