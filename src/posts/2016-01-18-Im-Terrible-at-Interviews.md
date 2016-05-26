@@ -215,5 +215,3 @@ It is time to stop being terrible!
 [^life-of-freelance]: This might seem odd, but is explained by the fact I started freelancing at 16 and founded a company at 17. I would highly recommend against this. In hindsight, trying to use work as an escape hatch was one of my worst decisions. If it had worked out I would have done very well, but most things fail. Always assume you will fail and operate from that point. Ask "what will my life be like if this doesn't work out?" and operate from that. Not going to college is a risk the mentally ill and poverty stricken should not take. I assumed success and created a situation where failure was absolutely disastrous. But that is a [story](http://fightTheUrgeToFade.com) for another time
 
 [^not-really]: I didn't give up chess forever. Several years after that tournament I returned to the board.
-
-_P.S:_ If you haven't guessed, I am looking for a job. If I sound like someone you might be interested in hiring you can checkout [k2052.codes](http://k2052.codes) and my [GitHub](https://github.com/k2052/)
