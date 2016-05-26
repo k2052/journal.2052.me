@@ -53,6 +53,8 @@ metal
       });
     });
 
+    data.title = "K-2052's Journal"
+
     renderReact(`/`, data, (resp) => {
       files['index.html'] = {
         contents: resp
