@@ -8,7 +8,7 @@ I have been thinking a lot about the term "abuse" today. Abuse is so hard to rec
 
 The first time someone ever used the label "abuse" to describe my life I became very defensive. That was silly, I knew all sorts of humans that had it a thousand times worse. When I was twelve a friend of my step-dad, the father of a kid on my soccer team, murdered his wife, attempted to murder his kids and then shot him self. That was abuse. To me what I had didn't seem all that bad. It didn't seem remotely like abuse.
 
-"Don't be ridiculous dude. My step-dad has only hit me twice. I counted. I'm 100% certain there were only two incidents. And he only has raged three times. I counted. My biological raged like a zillion times. 3 vs a zillion. See, the math checks out my step-dad isn't abusive"
+"Don't be ridiculous dude. My step-dad has only hit me twice. I counted. I'm 100% certain there were only two incidents. And he only has raged three times. I counted. My biological father raged like a zillion times. 3 vs a zillion. See, the math checks out my step-dad isn't abusive"
 
 He gave me blank stares and let the conversation go.
 
