@@ -30,8 +30,6 @@ I have carried around some shame myself, some for longer than others. See, for t
 
 She had all the traits of a manic pixie dream girl. She was quirky, she used random catch phrases, she’d talk on and on about irrelevant things, and when maintenance workers ran a leaf-blower she’d cover her ears and scream. She was perfect. 
 
-Also she was older and had boobs. That year all I thought about was boobs and board games.
-
 When I was eleven my family took a road-trip. We camped most of the way at RV parks. It was at a KOA (an RV park chain. yes even RV parks have franchises. AMURICA = LAND OF FRENCH FRIES and FRANCHISES) that I met her. She was playing by herself in a playground full of kids engaging in a game of freeze-tag. When other kids asked her to play she would shout “no!” at inappropriate volumes.
 
 She seemed confused and irritated by every social interaction. She protected her corner of the playground like it was a fragile alien planet and any intrusion of humans would destroy its ecosystem forever. She flapped her arms in excitement and talked about random things to herself. She said unintelligible things at inappropriate volumes. She was perfect.
