@@ -83,6 +83,6 @@ I'm really starting to be driven insane by the lack of design tools that work we
 
 No one is ever going to build what I need I think. So, I must build it myself. Sqircle is going to be prototyped this weekend if it's the last thing I do.
 
-It was raining off and on today so I didn't make much use of newly arrived camera. Ended up taking mostly selfies and images of chess pieces. Here is a selfie [Imgur](http://i.imgur.com/hXOxGjJ.jpg)
+It was raining off and on today so I didn't make much use of newly arrived camera. Ended up taking mostly selfies and images of chess pieces. Here is a selfie ![Selfie](https://i.imgur.com/hXOxGjJ.jpg)
 
 (yes my nose is peeling, I got sunburned in San Diego)
