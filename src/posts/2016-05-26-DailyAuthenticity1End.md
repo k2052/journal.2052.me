@@ -26,7 +26,7 @@ I breathed a sigh of relief. that could have been awkward, I thought.
 
 I don't remember much about that evening just that there was a lot of my mom getting upset with me and that I ended up grounded. I didn't understand. I thought I was being punished for lying and I kept berating my mom with a zillion questions. I thought maybe I had got the facts wrong. Maybe she sitll does meth, I wondered. "Do you still do meth?" I asked. I wondered if maybe I lacked understanding of meth, and like it wasn't well known and I was in trouble for not having explained things properly so that people would know what meth is. "What is meth?" I asked. This was my first conscious realization of the deep shame my mom carried around and still does.
 
-I have carried around some shame myself, some for longer than others. See, for the longest time I hated the term "autistic", it filled me revulsion. Most people that know me think I had some sort of epiphany and realized "oh my gosh I think I might be autistic", in truth, I have had some idea for a long time.
+I have carried around some shame myself, some for longer than others. See, for the longest time I hated the term "autistic", it filled me with revulsion.  I have had some idea I might be on the spectrum for a long time, but I really didn't like it. It took me awhile to start to see the term as positive and not a huge negative.
 
 She had all the traits of a manic pixie dream girl. She was quirky, she used random catch phrases, she’d talk on and on about irrelevant things, and when maintenance workers ran a leaf-blower she’d cover her ears and scream. She was perfect. 
 
