@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[K-2052's Journal]]></title><description><![CDATA[K-2052's Journal]]></description><link>http://journal.2052.me</link><generator>metalsmith-feed</generator><lastBuildDate>Fri, 27 May 2016 05:00:52 GMT</lastBuildDate><atom:link href="http://journal.2052.me/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[K-2052]]></author><item><title><![CDATA[Daily Authenticity 1 - End]]></title><description><![CDATA[<p>I have been thinking a lot about the term “abuse” today. Abuse is so hard to recognize from the inside. It has a way of feeling normal. When something feels normal it doesn’t feel like abuse.</p>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[K-2052's Journal]]></title><description><![CDATA[K-2052's Journal]]></description><link>http://journal.2052.me</link><generator>metalsmith-feed</generator><lastBuildDate>Fri, 27 May 2016 15:47:10 GMT</lastBuildDate><atom:link href="http://journal.2052.me/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[K-2052]]></author><item><title><![CDATA[Daily Authenticity Day 2 - Beginning]]></title><description><![CDATA[<p>It is cold this morning. Like disappointingly cold. The planet should be ashamed of itself. It wouldn’t be so bad except I have AC installed in my window, which means the insulation is pretty terrible. It should be 75-80 not 50. Supposed to get up to 89 by next Friday. It is also raining. Which is probably a good thing, I would waste too much time playing around with my new camera.</p>
+<p>My journaling has turned into thoughts about the weather already…</p>
+<p>The JavaScript ecosystem is still driving me insane. I really need to put some effort into making more <a href="https://github.com/Hactar-js/hactar">hactar</a> plugins. It would help alleviate some of my frustrations I think.</p>
+<p>I’m already feeling the lack of social being back in Idaho. I need to move to a place with a tech scene like tomorrow. Maybe I should go to a local meetup or something. But I have enough money in my bank account to Airbnb someplace for a few weeks, so maybe I should head to Seattle or Portland for a bit. I can never decide. I should just do the nomad thing and start traveling I think, I’d be happy as a digital nomad. Digital nomad it is then.</p>
+<h2>Things I Will Do Today</h2>
+<ul>
+<li>[ ] Wrap up user’s feature on REDACTED</li>
+<li>[ ] Get back to a support request on ThinkingInReact</li>
+<li>[ ] Make a passport appointment. I have procrastinated on this way too much, to the point it actually delayed my trip.</li>
+<li>[ ] Make an appointment at vet to fix stray cats</li>
+<li>[ ] Make a dentist appointment</li>
+<li>[ ] Iron out SSL issues on ThinkingInReact</li>
+<li>[ ] Start on backend code for GetGoodAt</li>
+<li>[ ] 1 hour on treadmill</li>
+<li>[ ] 30 minutes chopping wood (weather permitting)</li>
+<li>[ ] Push updates to the https://github.com/k2052/awesome-modern-design-tools repo</li>
+<li>[ ] Publish my MathAsCode Ruby fork</li>
+</ul>
+<h2>Things I Will NOT Do Today</h2>
+<ul>
+<li>I will not Eat unhealthy things</li>
+</ul>
+<p>(I feel like my anti-task list is usually going to be diet related)</p>
+]]></description><guid isPermaLink="false">Daily Authenticity Day 2 - Beginning</guid><dc:creator><![CDATA[K-2052]]></dc:creator></item><item><title><![CDATA[Daily Authenticity 1 - End]]></title><description><![CDATA[<p>I have been thinking a lot about the term “abuse” today. Abuse is so hard to recognize from the inside. It has a way of feeling normal. When something feels normal it doesn’t feel like abuse.</p>
 <p>The first time someone ever used the label “abuse” to describe my life I became very defensive. That was silly, I knew all sorts of humans that had it a thousand times worse. When I was twelve a friend of my step-dad, the father of a kid on my soccer team, murdered his wife, attempted to murder his kids and then shot him self. That was abuse. To me what I had didn’t seem all that bad. It didn’t seem remotely like abuse.</p>
 <p>“Don’t be ridiculous dude. My step-dad has only hit me twice. I counted. I’m 100% certain there were only two incidents. And he only has raged three times. I counted. My biological father raged like a zillion times. 3 vs a zillion. See, the math checks out my step-dad isn’t abusive”</p>
 <p>He gave me blank stares and let the conversation go.</p>
