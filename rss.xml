@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[K-2052's Journal]]></title><description><![CDATA[K-2052's Journal]]></description><link>http://journal.2052.me</link><generator>metalsmith-feed</generator><lastBuildDate>Mon, 30 May 2016 05:39:32 GMT</lastBuildDate><atom:link href="http://journal.2052.me/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[K-2052]]></author><item><title><![CDATA[Daily Authenticity Day 4 - End]]></title><description><![CDATA[<p>Today was pretty good. Adequately productive and super relaxing. I’m drinking alcohol right now, a mike’s hard lemonade. I have never drank much at all (like literally once or twice a year) but had a craving for alcohol this weekend. I think Valiocon social drinking stuck a bit.</p>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[K-2052's Journal]]></title><description><![CDATA[K-2052's Journal]]></description><link>http://journal.2052.me</link><generator>metalsmith-feed</generator><lastBuildDate>Mon, 30 May 2016 16:15:04 GMT</lastBuildDate><atom:link href="http://journal.2052.me/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[K-2052]]></author><item><title><![CDATA[Daily Authenticity Day 5 - Beginning]]></title><description><![CDATA[<p>I don’t know what is happening in my sleep but I woke up with my mouth full of blanket fuzz again. I wish sleep me would stop chewing on blankets. Maybe I keep getting sexually assaulted by a hairy supernatural creature or the aliens have thick carpeting on their spaceships. I should set up cameras and go all Paranormal Activity on this mystery.</p>
+<p>I’m currently obsessively excited about JavaScript parsers. The ecosystem in the JS world has finally reached a tipping point where we can easily manipulate the language. ES6 feels almost like using Clojure these days only with a much larger ecosystem.</p>
+<p>In general JS has finally adopted some of the best awesomest ideas of the LISP world. For GetGoodGat I’m using a tiny functions data first approach to composing code and it is super powerful. When you couple it with a document store you get super powers that feel a lot like working with Datascript and Clojure data structures.</p>
+<p>You have your original set of data and all the code just changes and transforms this data until eventually outputting it. ES6 is finally capable enough of letting me code apps as state transformations. This let’s me think of apps in turns of inputs and outputs, which is extremely powerful once you grok it.</p>
+<p>On GetGoodAt I need flexible purchase model, users need to be able purchase a variety of content; courses, articles, books etc. Instead of implementing code for each of this individually I just have a function that takes any object and purchases it. All the function needs is for the object to have a price field and pretty much that it is it. So any purchasing functionality is easy, and can be added to any content type with almost no extra labor.</p>
+<p>I have started to do away with ORMs on most of my projects. I think they defeat the purpose of schemaless stores and remove all the flexibility and power you get from them. Instead I validate data elsewhere. Anytime I need to stick some metadata on a document or transform it in someway I can easily do it.</p>
+<p>I split up all my code into tiny functions and let functions read the details they need from state in the objects. One explicit place for state vastly simplifies code. It makes little tiny functions possible. The clojure way.</p>
+<p>Today I intend to be mostly work productive. But hope this evening to get around to GetGoodAt stuff.</p>
+<h2>Things I Will Do Today</h2>
+<ul>
+<li>Laundry</li>
+<li>Inbox Zero</li>
+<li>Shut down AWS account. I need to close down the account, I no longer use S3, so it is just sitting there costing me tiny bits of money. I haven’t bothered because it is only a $2 charge a month. A years worth of that is like a large pizza though</li>
+<li>Publish MathAsCode ruby fork. Planned to do this a couple days ago but never got to it</li>
+<li>Work for 6 hours (I have little idea what my tasks are yet)</li>
+<li>Chop wood for 30 minutes</li>
+<li>Take a jog</li>
+</ul>
+<h2>Things I Will Not Do Today</h2>
+<ul>
+<li>I will not Eat unhealthy</li>
+</ul>
+]]></description><guid isPermaLink="false">Daily Authenticity Day 5 - Beginning</guid><dc:creator><![CDATA[K-2052]]></dc:creator></item><item><title><![CDATA[Daily Authenticity Day 4 - End]]></title><description><![CDATA[<p>Today was pretty good. Adequately productive and super relaxing. I’m drinking alcohol right now, a mike’s hard lemonade. I have never drank much at all (like literally once or twice a year) but had a craving for alcohol this weekend. I think Valiocon social drinking stuck a bit.</p>
 <p>I got most of what I wanted to get done today done. Didn’t make as much progress on GetGoodAt as I would have hoped, but the shape of it is clear to me now. Now I just need the hours to code it.</p>
 <p>I have been thinking a lot about dev tools and how they are terrible. There are two huge problems with the current ecosystem;</p>
 <ol>
