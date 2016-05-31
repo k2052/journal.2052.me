@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[K-2052's Journal]]></title><description><![CDATA[K-2052's Journal]]></description><link>http://journal.2052.me</link><generator>metalsmith-feed</generator><lastBuildDate>Tue, 31 May 2016 06:52:09 GMT</lastBuildDate><atom:link href="http://journal.2052.me/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[K-2052]]></author><item><title><![CDATA[Daily Authenticity Day 5 - End]]></title><description><![CDATA[<p>Today was a pretty okay day. It could have been better but no complaints. I got all the things I needed to get done done and by the end of the day I felt stress free. Feeling stress free is the bestest feeling in the world.</p>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[K-2052's Journal]]></title><description><![CDATA[K-2052's Journal]]></description><link>http://journal.2052.me</link><generator>metalsmith-feed</generator><lastBuildDate>Tue, 31 May 2016 17:40:06 GMT</lastBuildDate><atom:link href="http://journal.2052.me/rss.xml" rel="self" type="application/rss+xml"/><author><![CDATA[K-2052]]></author><item><title><![CDATA[Daily Authenticity Day 6 - Beginning]]></title><description><![CDATA[<p>I’m tired this morning. I went to bed way too late last night. I shall nap later today I think.</p>
+<p>I have lots of appointments I should make today but since phonecalls are stressful I have decided to stick to one. When I have like four to make it always produces anxiety for me, sometimes severe anxiety. Phonecalls don’t make me anxious just the things they are about cause me anxiety. I only ever make phone calls to make appointments; with the sole exception of a friend that cant stand eye contact so we use phonecalls instead of Google Hangouts.</p>
+<p>It is funny I hate the dentist as much as most people do, but not for the typical reasons. I hate the small talk. It actually feels me with anxious feelings of dread in my stomach. Small talk is hard already, throw novocaine and drilling into a tooth into the mix and it is terrifyingly hard. I wish I could find a dentist that would just do the work and not want to talk about it. Funny thing is, I think a lot of dentists get especially talkative with me because they see I’m nervous and anxious; they are trying to get me to relax by talking. If only they knew the smalltalk is what makes me nervous. hashtag autistic problems.</p>
+<p>I have found that my small talk anxiety is decreasing. Meeting strangers and Valiocon and conversing really really helped. I think I can practice the anxiety away. Eventually the exposure to small talk situations will rewire my brain. I can do it!</p>
+<p>I’m fighting with npm this morning, something crazy weird is going on with nyc dependencies on a project. I keep getting the following:</p>
+<pre><code class="language-sh">&gt; nyc ava | tap-spec
+
+module.js:341
+    throw err;
+    ^
+
+Error: Cannot find module 'lru-cache'
+    at Function.Module._resolveFilename (module.js:339:15)
+    at Function.Module._load (module.js:290:25)
+    at Module.require (module.js:367:17)
+    at require (internal/module.js:16:19)
+    at Object.&lt;anonymous&gt; (.../node_modules/nyc/node_modules/foreground-child/node_modules/cross-spawn-async/lib/parse.js:2:22)
+    at Module._compile (module.js:413:34)
+    at Object.Module._extensions..js (module.js:422:10)
+    at Module.load (module.js:357:32)
+    at Function.Module._load (module.js:314:12)
+    at Module.require (module.js:367:17)
+</code></pre>
+<p>I think what is happening is that something didn’t specify lru-cache. Maybe someone expected to be a dependency of something else, and it was removed as a dependency, breaking things all the way up the stack. I don’t know. Small npm issues like this occur constantly though. It amazes me how broken npm is for something so widely used. Powers half the web and it is frustratingly bad. We need better tools.</p>
+<p>I need a nap.</p>
+<h2>Things I Will Do Today</h2>
+<ul>
+<li>Get a PR finished and merged for work project</li>
+<li>Laundry</li>
+<li>Make passport appointment</li>
+<li>Groom Nana (my Newfoundland dog)</li>
+<li>Finish GetGoodAt backend. Ambitious. But I’m going to code like crazy this evening. I can do it!</li>
+</ul>
+]]></description><guid isPermaLink="false">Daily Authenticity Day 6 - Beginning</guid><dc:creator><![CDATA[K-2052]]></dc:creator></item><item><title><![CDATA[Daily Authenticity Day 5 - End]]></title><description><![CDATA[<p>Today was a pretty okay day. It could have been better but no complaints. I got all the things I needed to get done done and by the end of the day I felt stress free. Feeling stress free is the bestest feeling in the world.</p>
 <p>I’m still massively excited about GetGoodAt. I’m getting in a couple hours hacking on its codebase here and there. Eventually it will come together. Then Sqircle will come together. I’m determined to start launching some more projects.</p>
 <p>I have realized how crucial little things like social and work life balance are for work. I was killing myself hours wise for work before I left for Valiocon. Bizarrely I have cut down my hours and found myself way more productive. Hours are the least important thing for success. Work smarter not more.</p>
 <p>I have heard and read that advice a million times but have started to see the results myself and it is starting to click. Maybe I will figure out this life thing yet.</p>
